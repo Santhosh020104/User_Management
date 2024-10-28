@@ -22,7 +22,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/SANTHOSH02012004/User_Management.git
+git clone https://github.com/SANTHOSH020104/User_Management.git
 cd User_Management
 2. Install Dependencies
 Run the following command to install the necessary packages:
